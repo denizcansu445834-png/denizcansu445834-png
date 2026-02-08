@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi 👋 I'm Cansu Aslan
 
-<!--
-**denizcansu445834-png/denizcansu445834-png** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Management Information Systems (MIS) student  
+💻 Learning software development step by step  
+🚀 Future full-stack developer
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩‍💻 About Me
+I am a university student who is improving herself in software, databases and algorithms.  
+I build small projects every day to practice and grow.
+
+---
+
+## 🧠 Currently Learning
+- Python
+- SQL & Databases
+- Algorithms & Problem Solving
+- HTML, CSS, JavaScript
+- Git & GitHub
+
+---
+
+## 📂 My Projects
+Here you can find my practice projects:
+- Python mini apps
+- Simple websites
+- Database designs
+- Algorithm exercises
+
+---
+
+## 🎯 Goals
+- Improve my coding skills
+- Build real-world projects
+- Get internship opportunities
+- Become a professional developer
+
+---
+
+## 📫 Contact
+LinkedIn: ([)](https://www.linkedin.com/in/cansu-aslan-517b50380?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+Email: (denizcansu445834@gmail.com)
+
+⭐ Thanks for visiting my profile
